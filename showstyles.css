@@ -1,0 +1,152 @@
+body {
+    background-image: url('./937780.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    bac background-size: cover;
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
+    image-rendering: -moz-crisp-edges;
+    background-attachment: fixed;
+
+
+    image-rendering: -o-crisp-edges;
+
+    image-rendering: -webkit-optimize-contrast;
+
+    -ms-interpolation-mode: nearest-neighbor;
+}
+
+
+.card-img-bottom {
+    border-radius: 5%;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-bottom: 20px;
+    max-height: 300px;
+    max-width: 375px;
+    background-color: cyan;
+
+    image-resolution: 300dpi snap;
+    image-rendering: optimizeQuality;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
+    image-rendering: -moz-crisp-edges;
+
+
+
+    image-rendering: -o-crisp-edges;
+
+    image-rendering: -webkit-optimize-contrast;
+
+    -ms-interpolation-mode: nearest-neighbor;
+
+
+
+}
+
+#border {}
+
+iframe {
+    display: none;
+}
+
+img {}
+
+#border {
+
+    border-width: 50%;
+    border-bottom-style: ridge;
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+    padding: 1%;
+
+}
+
+#likeButton2 {
+    position: relative;
+    top: 50px;
+    left: 15px;
+}
+
+i.float-end {
+   
+    
+}
+
+#commentOwner {
+    text-decoration: none;
+    color: red;
+}
+
+#cardbody {
+    background-color: rgb(252, 215, 215);
+    padding: 20px;
+    font-family: monospace;
+    font-style: italic;
+    font-stretch: expanded;
+
+
+
+}
+
+#photobody {
+    background-color: rgb(252, 215, 215);
+}
+
+#header1 {
+    background-color: rgb(196, 196, 196);
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+#header2 {
+    background-color: rgb(196, 196, 196);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#cardfoot1 {
+    background-color: rgb(196, 196, 196);
+}
+
+#commentHeader {
+    background-color: rgb(196, 196, 196);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#commentBody {
+    background-color: rgb(252, 215, 215);
+    padding: 20px;
+    font-family: monospace;
+    font-style: italic;
+    font-stretch: expanded;
+
+}
+
+#commentFooter {
+    background-color: rgb(196, 196, 196);
+
+}
+.card{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#commentsh3 {
+   color:rgb(255, 255, 255); ;
+   
+   
+}

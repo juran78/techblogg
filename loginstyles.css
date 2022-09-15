@@ -1,0 +1,39 @@
+body {
+    background-image: url('./937780.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    bac background-size: cover;
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
+    image-rendering: -moz-crisp-edges;
+    background-attachment: fixed;
+
+
+    image-rendering: -o-crisp-edges;
+
+    image-rendering: -webkit-optimize-contrast;
+
+    -ms-interpolation-mode: nearest-neighbor;
+}
+.card {
+    position: relative;
+    top: 150px;
+    background-color: rgba(196, 196, 196, 0.66);
+    transition: all 1s;
+    transition-timing-function: ease-in;
+}
+.card:hover{
+    background-color: rgb(196, 196, 196);
+}
+
+label{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+input {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

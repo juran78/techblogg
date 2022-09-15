@@ -1,0 +1,17 @@
+.navbar:hover {
+    text-shadow: black;
+}
+
+.navbar {
+    background-color: rgb(196, 196, 196);
+}
+
+
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+@media only screen and (max-width: 600px) {
+ #dropdown{
+    right: 8%;
+ }
+  }

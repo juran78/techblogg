@@ -1,0 +1,22 @@
+body {
+    background-image: url('./937780.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    bac background-size: cover;
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
+    image-rendering: -moz-crisp-edges;
+    background-attachment: fixed;
+
+
+    image-rendering: -o-crisp-edges;
+
+    image-rendering: -webkit-optimize-contrast;
+
+    -ms-interpolation-mode: nearest-neighbor;
+}
